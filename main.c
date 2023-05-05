@@ -22,4 +22,5 @@ int main()
     printf("Number of characters: %d\n", count);
 
     return 0;
+    //更新第一次
 }
