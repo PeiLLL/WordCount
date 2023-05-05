@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-int  main(int argc,char *argv[])
+int main(int argc,char *argv[])
 {
     char value;//用于读取字符;
     char character[100];//用于存储读取的字符;
@@ -67,3 +67,4 @@ int  main(int argc,char *argv[])
         printf("单词数： %d\n",wordcount/2);//单词数等于状态变化数1/2;
     }
 }
+//final
